@@ -5,7 +5,7 @@ using System.Text;
 
 namespace project
 {
-    class Class1
+    class Changed
     {
     }
 }
